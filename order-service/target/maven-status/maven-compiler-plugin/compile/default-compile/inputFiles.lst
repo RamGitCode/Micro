@@ -1,0 +1,15 @@
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\client\CustomerClient.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\controller\OrderController.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\entity\Orders.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\exception\CustomerAlreadyExistsException.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\exception\CustomerClientConfig.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\exception\CustomerNotFoundException.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\exception\CustomProblemDetail.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\exception\GlobalExceptionHandler.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\model\Customer.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\model\CustomerResponse.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\OrderServiceApplication.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\repository\OrderRepo.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\service\CustomerService.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\service\OrderService.java
+B:\MicroserviceWithAllFeatures\workMicroserviceWithAllFeatures\order-service\src\main\java\com\order\service\OrderServiceImpl.java
